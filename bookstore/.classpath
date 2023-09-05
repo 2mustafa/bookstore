@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jpa-eclipselink-2.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jrs-jersey-2.28">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/server-api-11.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jaxb-glassfish-2.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json-yasson-1.0.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jval-hibernate-6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdbc-mysql-8.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
