@@ -35,3 +35,5 @@ Retrieve a List of All Books:
 Retrieve Information about a Specific Book by ID:
     Endpoint: http://localhost:8001/services/books/1
     Description: Retrieve detailed information about a specific book identified by ID 1.
+
+Server Copyright by Sascha Baumeister 2013
